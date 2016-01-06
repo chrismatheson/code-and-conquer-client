@@ -4,6 +4,7 @@
   "description": "The starter client for MancJS Code & Conquer",
   "main": "client.js",
   "scripts": {
+    "start": "node client"
   },
   "author": "MancJS",
   "license": "ISC"
