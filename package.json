@@ -1,0 +1,10 @@
+{
+  "name": "code-and-conquer-client",
+  "version": "1.0.0",
+  "description": "The starter client for MancJS Code & Conquer",
+  "main": "client.js",
+  "scripts": {
+  },
+  "author": "MancJS",
+  "license": "ISC"
+}
